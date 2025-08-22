@@ -1,0 +1,12 @@
+Slide 1 Theory [[Slide_Theory_1|Click]]
+Slide 2 Theory [[Slide_Theory_2|Click]]
+Slide 3 Theory [[Slide_Theory_3|Click]]
+
+1-3 Pattern [[Slide_Pattern1-3|Click]]
+4.1 Template and Command Patterns.[[Slide_4_1|Click]]
+4.2 Identifying Architecture Characteristics.[[Slide_4_2|Click]]
+5.1 Measuring and Governing Arch Char.[[Slide_5_1|Click]]
+5.2 Scope of Architectural Characteristics.[[Slide_5_2|Click]]
+5.3 Abstract Factory & Memento.[[Slide_5_3|Click]]
+6.1 SDA Component.[[Slide_6_1|Click]]
+6.2 SDA Adapter and Facade.[[Slide_6_2|Click]]

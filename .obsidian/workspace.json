@@ -1,0 +1,360 @@
+{
+  "main": {
+    "id": "616d297613a4650b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7966e0246fd16ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9923c7d7d770a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_4_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_4_1"
+            }
+          },
+          {
+            "id": "a5955f556525a09b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_5_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_5_2"
+            }
+          },
+          {
+            "id": "3d3b45717d79efb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_5_3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_5_3"
+            }
+          },
+          {
+            "id": "5b1ac1ce5f7cc918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_6_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_6_1"
+            }
+          },
+          {
+            "id": "ac9b94c181265917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_4_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_4_1"
+            }
+          },
+          {
+            "id": "c33a107a28d2a15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_6_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_6_2"
+            }
+          },
+          {
+            "id": "733336a0f98de094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_4_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_4_1"
+            }
+          },
+          {
+            "id": "a1940a767a8d54b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_Pattern1-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_Pattern1-3"
+            }
+          },
+          {
+            "id": "78f2cde3752c5717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_Theory_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_Theory_1"
+            }
+          },
+          {
+            "id": "a35c3d4e76a5342d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_Theory_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_Theory_2"
+            }
+          },
+          {
+            "id": "02cb4e2bb0f53cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_Theory_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_Theory_2"
+            }
+          },
+          {
+            "id": "32c2cf2c7fc460d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide_5_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide_5_2"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "702f30584a408867",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa3f7454db11248c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d369094a34ae80d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6d510caaa5866e07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95cc4c12f3febf0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "26544a88553402f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "be46fc43bc603ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ff4992c960ce93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slide_6_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Slide_6_1"
+            }
+          },
+          {
+            "id": "7b63680b099d9b31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Week05"
+            }
+          },
+          {
+            "id": "93aa9c71c677e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33c974043fa14c6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week05"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "02cb4e2bb0f53cb3",
+  "lastOpenFiles": [
+    "Slide_Theory_1.md",
+    "Slide_Pattern1-3.md",
+    "Slide_Theory_2.md",
+    "Slide_6_2.md",
+    "Slide_5_1.md",
+    "Slide_5_2.md",
+    "Slide_5_3.md",
+    "Slide_6_1.md",
+    "SDA_Midterm.md",
+    "Slide_Theory_3.md",
+    "Slide_4_2.md",
+    "Slide_4_1.md",
+    "Pasted image 20250822164425.png",
+    "Pasted image 20250822154241.png",
+    "Pasted image 20250822153644.png",
+    "Pasted image 20250822153643.png",
+    "Pasted image 20250822144133.png",
+    "Pasted image 20250822143319.png",
+    "Pasted image 20250822142122.png",
+    "Excalidraw/Drawing 2025-08-21 23.54.44.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-21 23.52.11.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20250821194203.png",
+    "Pasted image 20250821191350.png",
+    "Pasted image 20250821024932.png",
+    "Exam.md",
+    "Week05.md",
+    "Untitled",
+    "Welcome.md"
+  ]
+}
