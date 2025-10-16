@@ -1,3 +1,13 @@
+# Principle
+## High-Level Principle
+- SOLID 
+- คิดตื้น
+- เน้น **การนิยามนโยบาย กฎเกณฑ์ หรือ behavior หลักของระบบ**
+- ไม่ผูกติดกับรายละเอียดการทำงานจริง (implementation detail)
+## Low-Level Principle
+- คิดลึก
+- เป็นหลักการออกแบบระดับ "รายละเอียด" (concrete level)
+- เน้นการ **implement** ฟังก์ชันการทำงานที่จับต้องได้
 # Observer Pattern
 It like having a host (Subject) and broadcast to the object that subscribed.
 **Subscribe/Notify**

@@ -70,3 +70,4 @@ Two main partitioning.
 	- Catalog, Checkout, Orders rely on the business workflow.
 4. Technical Partitioning =>
 	- Frontend, API, Database distributed to technology stack.
+
